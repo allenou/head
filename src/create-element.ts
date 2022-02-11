@@ -1,3 +1,4 @@
+// 创建 HTML 元素
 export const createElement = (
   tag: string,
   attrs: { [k: string]: any },
